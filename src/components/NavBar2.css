@@ -1,0 +1,31 @@
+img{
+width: 75px;
+height:75px;
+}
+
+h3{
+    padding: 10px 0;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    
+}
+
+.match{
+    font-size: 25px;
+    padding-bottom: 10px 0;
+    padding-top: 7px;
+    font-weight: bold;
+    color: black;
+}
+
+#nav-dropdown{
+    color: black;
+    
+}
+
+#nav-dropdown{
+    
+    font-weight: bold;
+
+}

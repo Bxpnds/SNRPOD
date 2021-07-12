@@ -1,0 +1,45 @@
+
+
+.episode-header{
+    text-align: center;
+}
+
+.episode-div{
+    position: absolute;
+  top: 30%;
+  width: 100%;
+  align: center;
+  padding-left: 200px;
+  padding-right: 60px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.episode-embed{
+    width: 90%;
+    
+
+}
+
+.bob{
+   
+    display: 100%; 
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 100%;
+    /* padding-bottom: 300px; */ 
+
+
+}
+
+h2{
+    color: white;
+    text-align: center;
+    padding-right: 75px;
+}
+h4{
+    color: white;
+    padding-right: 75px;
+}
