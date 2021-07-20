@@ -10,7 +10,7 @@ function NavBar2() {
       <Nav variant="pills" activeKey="1" onSelect={handleSelect}>
           <Nav.Item>
           <a>
-              <img src="/images/Snr_Logo2.jpg"></img>
+              <img src="/images/logo.jpg"></img>
           </a>
         </Nav.Item>
    
