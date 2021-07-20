@@ -15,7 +15,6 @@ import {
   BrowserRouter as Router,
   Route, Switch
 } from 'react-router-dom'
-import NavBar from './components/NavBar'
 import NavBar2 from './components/NavBar2'
 import { useParams
 } from "react-router-dom";
